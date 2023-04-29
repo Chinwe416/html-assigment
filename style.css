@@ -1,0 +1,244 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.box{
+    width: 90%;
+    height: auto;
+    margin: 2rem auto;
+   
+    
+}
+.project-box{
+    width: fit-content;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 3rem 4rem;
+
+    
+    
+}
+.first-box{
+    width: fit-content;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    column-gap: 54rem;
+}
+.upper-left-box{
+    width: fit-content;
+    height: auto;
+    display: flex;
+    column-gap: 1rem;
+    
+}
+
+.upper-right-box{
+    width: fit-content;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+
+}
+
+
+
+.second-box{
+    width: fit-content;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    column-gap: 4rem;
+    justify-content: space-between;
+    border: 1px solid lightgray;
+    align-items: center;
+    padding: 3rem 3rem;
+}
+.lower-left-box{
+    width: fit-content;
+    height: auto;
+}
+.travel-box{
+    width: fit-content;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    
+}
+.travel-text-box{
+    height: auto;
+    width: fit-content;
+    margin-right: 1rem;
+}
+.forward-box{
+    height: auto;
+    width: fit-content;
+    margin-right: 1rem;
+}
+
+
+
+
+
+
+.header-box{
+    width: fit-content;
+    height: auto;
+}
+
+.header-box p{
+    font-size: 3rem;
+    font-weight: bold;
+}
+.list-box{
+    width: fit-content;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    column-gap: 1rem;
+    align-items: center;
+}
+.dollar-box{
+    width: fit-content;
+    height: auto;
+    
+}        
+.line-box{
+    width: fit-content;
+    height: auto;
+     
+}
+.review-box{
+    width: fit-content;
+    height: auto;  
+}
+.asteris-box{
+    width: fit-content;
+    height: auto;
+     
+}
+.asteris-box img{
+    height: 6rem;
+    width: 6rem;
+}
+
+
+.sentence-box{
+    width: fit-content;
+    height: auto;
+}
+
+.ship-box{
+    width: fit-content;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    column-gap: 1rem;
+    padding: 2rem 0;
+    align-items: center;
+}
+.size-box{
+    width: fit-content;
+    height: auto;
+}
+.size-option-box{
+    width: fit-content;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    column-gap: 1rem;
+}
+
+.left-size-box{
+    width: fit-content;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 0 1rem 1rem;
+    border: 2px solid blueviolet;
+    border-radius: 0.5rem;
+    row-gap: 0.6rem;
+
+}
+.right-size-box{
+    width: fit-content;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 0 1rem 1rem;
+    border: 1px solid lightgrey;
+    border-radius: 0.5rem;
+    row-gap: 0.6rem;
+    
+}
+
+.question-box{
+    width: fit-content;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    padding: 1rem 0 2rem 0;
+    justify-items: center;
+    column-gap: 1rem;
+    align-items: center;
+}
+
+.button-box{
+    width: fit-content;
+    height: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+}
+
+.button-box button{
+    padding: 1rem 14rem;
+    color: white;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 0.6rem;
+    justify-content: space-evenly;
+    align-items: center;
+    font-weight: bold;
+   
+}
+
+.last-box{
+    width: fit-content;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    column-gap: 1rem;
+    align-items: center;
+    margin: 1rem 0 0 10rem;
+}
+
+.bag-box{
+    width: fit;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+
+.bag-box img{
+    height: 30rem;
+    width: 30rem;
+    
+}
